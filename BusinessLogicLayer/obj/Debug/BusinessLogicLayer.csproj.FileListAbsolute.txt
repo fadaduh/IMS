@@ -1,0 +1,7 @@
+C:\Users\Harikrushna\documents\visual studio 2010\Projects\InvoiceSolution\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Harikrushna\documents\visual studio 2010\Projects\InvoiceSolution\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Harikrushna\documents\visual studio 2010\Projects\InvoiceSolution\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Harikrushna\documents\visual studio 2010\Projects\InvoiceSolution\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Harikrushna\documents\visual studio 2010\Projects\InvoiceSolution\BusinessLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Harikrushna\documents\visual studio 2010\Projects\InvoiceSolution\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Harikrushna\documents\visual studio 2010\Projects\InvoiceSolution\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
