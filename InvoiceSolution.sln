@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebInvoiceSolution", "WebInvoiceSolution\", "{FA284E67-9354-45E2-BD31-383190313DCA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{7829587F-70B5-4EE5-AFE6-DE2423EEBBF1}|DataAccessLayer.dll;{240DFADA-F758-4BA3-9D1E-2BC9A7E74536}|BusinessLogicLayer.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/WebInvoiceSolution"
+		Debug.AspNetCompiler.PhysicalPath = "WebInvoiceSolution\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebInvoiceSolution\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebInvoiceSolution"
+		Release.AspNetCompiler.PhysicalPath = "WebInvoiceSolution\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebInvoiceSolution\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50602"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{7829587F-70B5-4EE5-AFE6-DE2423EEBBF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{240DFADA-F758-4BA3-9D1E-2BC9A7E74536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA284E67-9354-45E2-BD31-383190313DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA284E67-9354-45E2-BD31-383190313DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA284E67-9354-45E2-BD31-383190313DCA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA284E67-9354-45E2-BD31-383190313DCA}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{7829587F-70B5-4EE5-AFE6-DE2423EEBBF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7829587F-70B5-4EE5-AFE6-DE2423EEBBF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7829587F-70B5-4EE5-AFE6-DE2423EEBBF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7829587F-70B5-4EE5-AFE6-DE2423EEBBF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{240DFADA-F758-4BA3-9D1E-2BC9A7E74536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240DFADA-F758-4BA3-9D1E-2BC9A7E74536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240DFADA-F758-4BA3-9D1E-2BC9A7E74536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240DFADA-F758-4BA3-9D1E-2BC9A7E74536}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
