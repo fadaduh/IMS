@@ -1,0 +1,5 @@
+C:\Users\Harikrushna\documents\visual studio 2010\Projects\InvoiceSolution\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Harikrushna\documents\visual studio 2010\Projects\InvoiceSolution\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Harikrushna\documents\visual studio 2010\Projects\InvoiceSolution\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Harikrushna\documents\visual studio 2010\Projects\InvoiceSolution\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Harikrushna\documents\visual studio 2010\Projects\InvoiceSolution\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
